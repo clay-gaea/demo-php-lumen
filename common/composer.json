@@ -1,0 +1,23 @@
+{
+    "name": "com.clay/common",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "claychen",
+            "email": "itta163@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Com\\Clay\\Common\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/http": "^7.0",
+        "illuminate/database": "^7.0",
+        "guzzlehttp/guzzle": "^6.5",
+        "opis/json-schema": "^1.0"
+    }
+}
