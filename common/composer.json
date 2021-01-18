@@ -15,8 +15,8 @@
         }
     },
     "require": {
-        "illuminate/http": "^7.0",
-        "illuminate/database": "^7.0",
+        "illuminate/http": "^5.8",
+        "illuminate/database": "^5.8",
         "guzzlehttp/guzzle": "^6.5",
         "opis/json-schema": "^1.0"
     }

@@ -1,0 +1,20 @@
+{
+    "name": "com.clay/uac-simple-api",
+    "description": "用户中台简版",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "chenlei6",
+            "email": "itta163@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Com\\Clay\\UacSimpleApi\\": "src/"
+        }
+    },
+    "require": {
+    }
+}

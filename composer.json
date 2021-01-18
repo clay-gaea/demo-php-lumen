@@ -6,7 +6,7 @@
     "type": "project",
     "require": {
         "php": "^7.2.5",
-        "laravel/lumen-framework": "^7.0",
+        "laravel/lumen-framework": "^5.8",
         "com.clay/common": "1.0.0",
         "com.clay/uac-simple-api": "1.0.0"
     },
@@ -44,7 +44,7 @@
     "repositories": {
         "com.clay/uac-simple-api": {
             "type": "path",
-            "url": "../../gaea-codegen/dist"
+            "url": "./uac-simple-api"
         },
         "com.clay/common": {
             "type": "path",
